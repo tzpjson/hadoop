@@ -1,2 +1,3 @@
-Git is a distributed vesion control system
-Hello word java
+Git is a distributed varsion control sysotem.
+Git is free sofrware distributed unber the GPL.
+Git has mutale index called stage.
