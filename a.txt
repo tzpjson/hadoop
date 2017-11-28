@@ -1,3 +1,0 @@
-Git is a distributed varsion control sysotem.
-Git is free sofrware distributed unber the GPL.
-Git has mutale index called stage.
